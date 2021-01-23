@@ -13,6 +13,7 @@ int main() {
 			cin >> a[i][j];
 		}
 	}
+	// view the image in this repository for better understanding
 	int row_start = INT_MAX;
 	int column_start = INT_MAX;
 	int row_end = INT_MIN;
